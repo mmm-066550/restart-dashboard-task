@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@import "react-toastify/dist/ReactToastify.css";
+
+body {
+  font-family: "Poppins", sans-serif !important;
+  padding: 0;
+  margin: 0;
+}
+
+.Toastify__toast {
+  font-family: "Poppins", sans-serif !important;
+}
